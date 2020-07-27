@@ -1,0 +1,5 @@
+homepage: "https://www.usehero.com"
+documentation: "https://github.com/usehero/hero-product-mapper-gtm-template"
+versions:
+  - sha: 03e058de8c59fc20457314ab60474e621c5012ce
+    changeNotes: Initial release.
